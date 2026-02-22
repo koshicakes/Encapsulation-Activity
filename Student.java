@@ -54,6 +54,7 @@ public final class Student {
                 " | Age: " + age +
                 " | " + course +
                 " | Year " + yearLevel +
+                 " | Address: " + address +
                 " | " + contactNumber;
     }
 
